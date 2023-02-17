@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmud Mahmud Ibrahim</h1>
 
-<h2 align="center">Graphic Designer | Programmer | Data Analyst</h2>
+<h2 align="center">Graphic Designer | Programmer | Junior Data Analyst</h2><br>
 
 
 
