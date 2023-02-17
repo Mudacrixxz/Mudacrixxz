@@ -5,11 +5,10 @@
 
 
 
-- ## 🌱 I’m currently learning **Python Programming**
-- ## 👯 I’m looking to collaborate on ...
-- ## 🤔 I’m looking for help with **Data Science & Machine Learning**
-- ## 💬 Ask me about **Python**
-- ## 📫 How to reach me: *mahmudmahmud105@gmail.com*
-- ## 😄 Pronouns: ...
-- ## ⚡ Fun fact: **Watching Movies**
-
+- ### 🌱 I’m currently pursuing **Data Science & Machine Learning**
+- ### 👯 I’m looking to collaborate on ...
+- ### 🤔 I’m looking for help with **Data Science & Machine Learning**
+- ### 💬 Ask me about **Python**
+- ### 📫 How to reach me: [My Gmail](mahmudmahmud105@gmail.com)
+- ### 😄 Pronouns: **He/Him**
+- ### ⚡ Fun fact: **Watching Movies**
