@@ -9,7 +9,7 @@
 - ## 👯 I’m looking to collaborate on ...
 - ## 🤔 I’m looking for help with **Data Science & Machine Learning**
 - ## 💬 Ask me about **Python**
-- ## 📫 How to reach me: **mahmudmahmud105@gmail.com**
+- ## 📫 How to reach me: *mahmudmahmud105@gmail.com*
 - ## 😄 Pronouns: ...
 - ## ⚡ Fun fact: **Watching Movies**
 
